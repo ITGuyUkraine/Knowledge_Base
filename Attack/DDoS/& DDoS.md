@@ -27,3 +27,9 @@ Time to read:
 [[%  MHDdoS + proxy]]
 
 
+
+
+
+DDoS ЯКИЙ ЗАПАМ'ЯТАЄТЬСЯ В РОСІЇ (Ультимативний ГАЙД) Для новичків і не тільки. https://www.youtube.com/watch?v=pQh1W6cv3Uc
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQh1W6cv3Uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
