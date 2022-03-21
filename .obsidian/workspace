@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attack/DDoS/& DDoS.md",
+                "file": "Attack/Соціальна інженерія/Корисні телеграмм боти.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attack/DDoS/& DDoS.md",
+                "file": "Attack/Соціальна інженерія/Корисні телеграмм боти.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,11 +121,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4098ff64f4c79381",
+  "active": "e3bc0fd5e3cdfb2d",
   "lastOpenFiles": [
+    "Attack/Соціальна інженерія/Корисні телеграмм боти.md",
     "Attack/DDoS/& DDoS.md",
     "Без названия.md",
-    "Attack/Соціальна інженерія/Корисні телеграмм боти.md",
     "Чем могу помочь конкретно я.md",
     "Просвет.md",
     "Attack/DDoS/%  MHDdoS + proxy.md",
