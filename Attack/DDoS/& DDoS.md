@@ -26,10 +26,16 @@ Time to read:
 [[%  DB1000n]]
 [[%  MHDdoS + proxy]]
 
+### Чати та інші ресурси для координації атак
+ - Головний канал IT армій україни: https://t.me/itarmyofukraine2022
+ - Посилання їх координаційний канал - Кібер-Козаки: https://t.me/ddos_separ 
+ - Спільний чат для Дудосу від Кібер-Козаків: https://t.me/+97Y45he5lOI2ZTky
+
+Канал для новачків:
+https://t.me/+md-77jub3zQyOWRi
 
 
-
-
-DDoS ЯКИЙ ЗАПАМ'ЯТАЄТЬСЯ В РОСІЇ (Ультимативний ГАЙД) Для новичків і не тільки. https://www.youtube.com/watch?v=pQh1W6cv3Uc
+### Інструкції
+DDoS ЯКИЙ ЗАПАМ'ЯТАЄТЬСЯ В РОСІЇ (Ультимативний ГАЙД) Для новачків і не тільки. https://www.youtube.com/watch?v=pQh1W6cv3Uc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pQh1W6cv3Uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
