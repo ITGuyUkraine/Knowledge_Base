@@ -30,10 +30,7 @@ Time to read:
  - Головний канал IT армій україни: https://t.me/itarmyofukraine2022
  - Посилання їх координаційний канал - Кібер-Козаки: https://t.me/ddos_separ 
  - Спільний чат для Дудосу від Кібер-Козаків: https://t.me/+97Y45he5lOI2ZTky
-
-Канал для новачків:
-https://t.me/+md-77jub3zQyOWRi
-
+- Канал для новачків: https://t.me/+md-77jub3zQyOWRi
 
 ### Інструкції
 DDoS ЯКИЙ ЗАПАМ'ЯТАЄТЬСЯ В РОСІЇ (Ультимативний ГАЙД) Для новачків і не тільки. https://www.youtube.com/watch?v=pQh1W6cv3Uc
