@@ -2,9 +2,10 @@
 alias: [ ]  
 ---
 tag: #Stub #Conspect #Article  
-{{date}} {{time}}, [Source](),  
+[Source](),  
 Authors: [[]]   
 Related:  
+Time to read:
 
 ---
 #

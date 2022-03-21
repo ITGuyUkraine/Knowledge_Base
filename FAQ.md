@@ -2,8 +2,49 @@
 alias: [ЧАВО, ЧаВо, ЧаВО, ЧЗВ, frequently asked questions, FAQ, F.A.Q]
 ---
 
-## [[DDoS]]
-#### З чату про DDOS по країні СЕПАРІВ (Кібер-Козаки)
+## Техничесские вопросы связанные с [[& DDoS]]
+
+#### Каким VPN пользоваться
+ - Hotspot shield. Там надо зарегистрироваться и дадут бесплатный про.
+#ToDoCompleteNote 
+
+#### Где можно найти красочные фото дохлой русни ?
+Чат в телеграмме  БДСН 18+ | Война 2022
+
+#### Де можна безкоштовно отримати віртуальний номер телефону?
+```
+https://www.receiveasms.com/
+https://smsreceivefree.com/
+https://getfreesmsnumber.com/
+https://sms-online.co/receive-free-sms
+http://sms-receive.net/
+https://www.receivesmsonline.net/
+http://7sim.net/
+https://hs3x.com/
+http://receivefreesms.com/
+https://receivefreesms.net/
+https://receivesmsonline.in/
+https://receive-sms-online.com/
+https://www.groovl.com/
+https://www.smsver.com/
+http://sms.sellaite.com/
+https://www.sendsmsnow.com/
+https://www.proovl.com/numbers
+https://www.pinger.com/
+https://www.freeonlinephone.org/
+https://5sim.net/
+https://www.skycallbd.com/
+https://smsget.net/free/ru/
+https://virtty.com/en
+https://www.textanywhere.com/
+https://www.temp-mails.com/
+http://receivesmsonline.me/
+http://freereceivesmsonline.com/
+https://es.mytrashmobile.com/numeros
+```
+
+
+### З чату про DDOS по країні СЕПАРІВ (Кібер-Козаки)
 
 #### Чого не працюємо по важливішим таргетам?
 - Відповідь буде довгою. Почнімо. Більшість цілей з недавніх пір скажемо так вибираємо не ми, м'яко кажучи координуєм цілі з іншими пабліками. Це одна з причин. Наступна причина.. Як бачите на каналі 69к. З них активних може бути 20, атакувати разом з нами може 8, якщо 4 цілі одночасно то на кожен сервер припадає 2 тисячі людей. Але не забирайте фактора що навіть ці люди можливо не розуміють як правильно атакувати, кидають пакети в стіну і ТД. Тобто питання розширення аудиторії досі відкрите, нам потрібна ваша допомога. Ми не бачимо сенсу нападати на той же Сбер коли вони після наших атак починають фільтрувати всі порти і ТД. Але я оптиміст тому я вірю що рано чи пізно покладемо його спати назавжди а не на три години.
@@ -19,3 +60,6 @@ alias: [ЧАВО, ЧаВо, ЧаВО, ЧЗВ, frequently asked questions, FAQ, F
 А що далі? В принципі на цьому все.
 
 Не забувайте не говорити точних локацій ракетних обстрілів і їсти теплі пельмені ввечері.
+
+--------------
+
