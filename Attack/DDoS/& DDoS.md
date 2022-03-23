@@ -40,6 +40,14 @@ Time to read:
 
 
 ### Інструкції
-DDoS ЯКИЙ ЗАПАМ'ЯТАЄТЬСЯ В РОСІЇ (Ультимативний ГАЙД) Для новачків і не тільки. https://www.youtube.com/watch?v=pQh1W6cv3Uc
+
+["Волонтерський" туторіал ](https://tarahtino.notion.site/1505b74f6f8443768dc47e0f4d2ee8b2 )по DDOS'у в якому зібрану зі всіх частинок інфу, також, там є [інформація для зівичайних смертних](https://telegra.ph/DDoS-dlya-pochatk%D1%96vc%D1%96v-detalno-Windows-02-26).
+
+
+----
+
+ DDoS ЯКИЙ ЗАПАМ'ЯТАЄТЬСЯ В РОСІЇ (Ультимативний ГАЙД) Для новачків і не тільки. https://www.youtube.com/watch?v=pQh1W6cv3Uc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pQh1W6cv3Uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
