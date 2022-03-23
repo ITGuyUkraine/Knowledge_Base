@@ -51,3 +51,10 @@ Time to read:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pQh1W6cv3Uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+------
+
+Как DDOSить российскую инфраструктуру с бесплатных виртуалок Azure
+
+Розповідаємо і показуємо, як вести DDOS-атаку з використанням віртуалок Azure. Автор інструкції — Ігор Журавльов з Sigma Software. А ще, Ігор з Харкова.
+
+👉 https://dou.ua/goto/1PPD
